@@ -3,10 +3,14 @@
     <head>
       <title>Notre site</title>
       <link href="css/style.css" type="text/css"
-        media="all"modification>
+        media="all">
     </head>
     <body>
+<<<<<<< HEAD
       <h1>Notre site bleu</h1>
+=======
+      <h1>Notre site rouge</h1>
+>>>>>>> nouvelle-page-accueil
     </body>
   </html>
    
